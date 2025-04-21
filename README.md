@@ -55,6 +55,3 @@ These fields have been used to answer business questions such as:
    - Exported a static PDF (`Sales data analysis.pdf`) for sharing.
 
 ---
-
-## 📂 Repository Structure
-
